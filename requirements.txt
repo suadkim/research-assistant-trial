@@ -1,0 +1,10 @@
+streamlit==1.33.0
+beautifulsoup4
+fake-useragent==1.4.0
+langchain-community
+google-generativeai
+openai
+anthropic
+elevenlabs==0.2.19
+pydub
+requests
